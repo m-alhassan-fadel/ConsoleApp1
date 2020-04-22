@@ -9,4 +9,7 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World!");
         }
     }
+
+
+    public void Test() { }
 }
